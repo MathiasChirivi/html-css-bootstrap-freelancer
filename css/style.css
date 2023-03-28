@@ -1,3 +1,35 @@
 .bg-color-header{
     background-color:#2c3e50 ;
 }
+
+.bg-color-container1{
+    background-color: #1abc9c;
+}
+
+.minHeight{
+    min-height: 400px;
+}
+.h-100{
+    min-height: 100px;
+}
+.bg-color-container2{
+    background-color: white;
+}
+.bg-color-card1{
+    background-color: brown!important;
+}
+.bg-color-card2{
+    background-color: green!important;
+}
+.bg-color-card3{
+    background-color: red!important;
+}
+.bg-color-card4{
+    background-color: orange!important;
+}
+.bg-color-card5{
+    background-color: blue!important;
+}
+.bg-color-card6{
+    background-color: violet!important;
+}
