@@ -31,21 +31,8 @@
 .bg-color-container2{
     background-color: white;
 }
-.bg-color-card1{
-    background-color: brown!important;
-}
-.bg-color-card2{
-    background-color: green!important;
-}
-.bg-color-card3{
-    background-color: red!important;
-}
-.bg-color-card4{
-    background-color: orange!important;
-}
-.bg-color-card5{
-    background-color: blue!important;
-}
-.bg-color-card6{
-    background-color: violet!important;
+
+.textGreen{
+    text-decoration: none;
+    color: green;
 }
